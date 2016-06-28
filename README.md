@@ -14,4 +14,4 @@ Tools :
 - Numpy 1.10.4
 
  The model try to predict the risk of diabetes for an out of sample patient </br>
- *note: Result = +85.3% on ROC/AUC evaluation score // Null Accuracy = 67.7%*
+ *note: Result = 85.3% on ROC/AUC evaluation score // Null Accuracy = 67.7%*
